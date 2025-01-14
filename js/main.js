@@ -18,7 +18,7 @@ const func_1 = (x, epsilon) => {
 
 const func_2 = (x, epsilon) => {
   if (x < -1 || x > 1) {
-    return alert("kiểm tra lại điều kiện hàm");
+    return alert("kiểm tra lại đầu vào trong khoảng -1 -> 1");
   }
   let i = 0;
   let func_2_x = 0;
@@ -38,7 +38,7 @@ const func_2 = (x, epsilon) => {
 
 const func_3 = (x, epsilon) => {
   if (x <= -1 || x > 1) {
-    return alert("kiểm tra lại điều kiện hàm");
+    return alert("kiểm tra lại đầu vào trong khoảng -1 -> 1");
   }
   let func_3_x = 0;
   let i = 1;
@@ -53,7 +53,7 @@ const func_3 = (x, epsilon) => {
 
 const func_4 = (x, epsilon) => {
   if (x < -1 || x > 1) {
-    return alert("kiểm tra lại điều kiện hàm");
+    return alert("kiểm tra lại đầu vào trong khoảng -1 -> 1");
   }
   let i = 1;
   let func_4_x = 1;
@@ -76,7 +76,7 @@ const func_4 = (x, epsilon) => {
 
 const func_5 = (x, epsilon) => {
   if (x < -1 || x > 1) {
-    return alert("kiểm tra lại điều kiện hàm");
+    return alert("kiểm tra lại đầu vào trong khoảng -1 -> 1");
   }
   let i = 1;
   let func_5_x = 1;
@@ -137,7 +137,7 @@ const func_7 = (x, epsilon) => {
 
 const func_8 = (x, epsilon) => {
   if (x < -1 || x > 1) {
-    return alert("kiểm tra lại điều kiện hàm");
+    return alert("kiểm tra lại đầu vào trong khoảng -1 -> 1");
   }
   let func_8_x = 0;
   let i = 0;
@@ -179,7 +179,7 @@ const func_9 = (x, epsilon) => {
 
 const func_10 = (x, epsilon) => {
   if (x < -1 || x > 1) {
-    return alert("kiểm tra lại điều kiện hàm");
+    return alert("kiểm tra lại đầu vào trong khoảng -1 -> 1");
   }
   //x = (x * Math.PI) / 180;
   let func_10_x = 0;
@@ -202,7 +202,7 @@ const func_10 = (x, epsilon) => {
 
 const func_11 = (x, epsilon) => {
   if (x < -1 || x >= 1) {
-    return alert("kiểm tra lại điều kiện hàm");
+    return alert("kiểm tra lại đầu vào trong khoảng -1 -> 1");
   }
   //x = (x * Math.PI) / 180;
   let func_11_x = 0;
@@ -225,7 +225,7 @@ const func_11 = (x, epsilon) => {
 
 const func_12 = (x, epsilon) => {
   if (x < -1 || x > 1) {
-    return alert("kiểm tra lại điều kiện hàm");
+    return alert("kiểm tra lại đầu vào trong khoảng -1 -> 1");
   }
   //x = (x * Math.PI) / 180;
   let func_12_x = 0;
