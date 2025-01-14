@@ -1,2 +1,2 @@
 #Taylor Series
-![Logo](images/image.png)
+![Taylor Series](images/image.png)
